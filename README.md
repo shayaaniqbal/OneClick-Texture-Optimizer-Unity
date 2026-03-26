@@ -1,7 +1,12 @@
 # 🎨 OneClick Texture Optimizer
 
-Demo Video Link: https://drive.google.com/file/d/14qbdNsArdo1c1xEmDDIH5g7zAtHi7lWr/view?usp=sharing
+---
 
+## 🎥 Demo
+
+https://raw.githubusercontent.com/shayaaniqbal/OneClick-Texture-Optimizer-Unity/main/One%20Click%20UI%20compressor%20Video.mp4
+
+---
 **Automate your Unity texture import settings in seconds!** 🚀
 
 Stop manually configuring hundreds of textures. **OneClick Texture Optimizer** is a powerful Unity Editor tool that lets you bulk-override texture compression settings for specific platforms, with smart handling for transparency!
